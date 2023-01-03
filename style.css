@@ -114,3 +114,9 @@ a {
     text-decoration: none;
     color: rgb(20, 92, 118);
 }
+
+#pass p {
+    color: red;
+    font-size: 0.8rem;
+    margin: 0rem;
+}
